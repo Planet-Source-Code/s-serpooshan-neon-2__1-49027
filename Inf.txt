@@ -1,0 +1,6 @@
+Animate any text on an electronical neon board<Br>
+Neon Release 2<br>
+it's algorith is modified so this version is about 100 times faster than previouse release! and is much simpler<br>
+also use winapi functions BitBlt and GetPixel for more speed<br>
+<B>Exciting</b> job, SEE and Enjoy! <br>
+
